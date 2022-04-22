@@ -1,0 +1,36 @@
+/*************************** TAG SELECTORS *************************/
+body {
+  font-family: courier;
+  background-color: forestgreen;
+}
+
+hr {
+   height: 3px;
+   background-color: springgreen;
+   border: none;
+}
+h1 {
+  color: #6EDCD9
+}
+h3 {
+  color: #6EDCD9
+}
+
+img {
+  background-color: #6EDCD9;
+}
+
+
+/************************** CLASS SELECTORS ************************/
+.circular{
+  border-radius: 100%;
+}
+
+.trex {
+  background-color: #6EDCD9;
+}
+
+/**************************** ID SELECTORS *************************/
+#tdata {
+  cell-spacing: 10;
+}
